@@ -33,6 +33,9 @@ body{
 #name-in-nav{
     color:#fff;
 }
+.project-btn{
+    width: 100%;
+}
 .no-border{
     border:none !important;
 }
